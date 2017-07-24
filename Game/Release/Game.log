@@ -1,0 +1,17 @@
+﻿  Engine.cpp
+  Game_main.cpp
+Game_main.cpp(47): warning C4244: =: преобразование "sf::Int32" в "float", возможна потеря данных
+Game_main.cpp(63): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+Game_main.cpp(73): warning C4244: =: преобразование "sf::Int32" в "float", возможна потеря данных
+Game_main.cpp(78): warning C4244: =: преобразование "sf::Int32" в "float", возможна потеря данных
+  Global_functions.cpp
+  Global_variables.cpp
+  Hero.cpp
+Hero.cpp(48): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+  Map.cpp
+  object_.cpp
+  Создание кода
+  All 166 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  Game.vcxproj -> C:\Users\Чисан\Documents\Visual Studio 2015\Projects\Game\Release\Game.exe
+  Game.vcxproj -> C:\Users\Чисан\Documents\Visual Studio 2015\Projects\Game\Release\Game.pdb (Full PDB)
